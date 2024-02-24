@@ -4,7 +4,7 @@ This is the toy app for Lesson 7 of the [Android App Development in Kotlin cours
 
 ## SleepQualityTracker
 
-he SleepQualityTracker app is a demo app that helps you collect information about your sleep.
+The SleepQualityTracker app is a demo app that helps you collect information about your sleep.
 
 Start time
 End time
